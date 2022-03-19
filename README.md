@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rawda-yasser
-- 👀 I’m interested in Django
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django projects
+- 👀 I’m interested in Django, React.js, and React Native
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on React.js projects
 - 📫 How to reach me ...
 
 <!---
